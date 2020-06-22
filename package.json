@@ -1,0 +1,17 @@
+{
+  "name": "fuse-checkout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hyperswarm/dht": "^3.6.5",
+    "hyperdrive-daemon": "github:geut/hyperdrive-daemon#dpaez/test-import-export",
+    "hyperdrive-daemon-client": "github:geut/hyperdrive-daemon-client#dpaez/drive-import-export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
