@@ -1,5 +1,7 @@
 # checkout-test
 
+NOTE: be sure to have enabled fuse on your daemon: `hyperdrive fuse-setup`
+
 ## Usage
 
 1. clone it
@@ -23,4 +25,3 @@ using provided Dockerfile
 ## Goal
 
 Using fuse, checkout a drive (related to one specific mountpoint) and be capable of read the content of a file.
-
